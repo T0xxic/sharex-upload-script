@@ -1,6 +1,8 @@
 # sharex-upload-script
 I wrote this after discovering a bit more of how image uploading works with ShareX from Aerouk's script.
 
+##This fork will upload to './' instead of './i/'. Thats all I did
+
 ##Installation
 
   1. Upload the files provided in the repo onto your website.
